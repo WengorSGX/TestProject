@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author somer
+ *
+ */
+module GitProject {
+}
